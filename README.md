@@ -153,3 +153,11 @@
 - 配图：`2026-07-02/self-energy-six-methods/assets/`
 - 配图说明：`2026-07-02/self-energy-six-methods/image-guide.md`
 - 脚本：`2026-07-02/self-energy-six-methods/tools/`
+
+### 停止更新，才是真的老了
+
+- 正文：`2026-07-02/stay-young-information-change/article.md`
+- 资料边界：`2026-07-02/stay-young-information-change/source-notes.md`
+- 配图：`2026-07-02/stay-young-information-change/assets/`
+- 配图说明：`2026-07-02/stay-young-information-change/image-guide.md`
+- 脚本：`2026-07-02/stay-young-information-change/tools/`
