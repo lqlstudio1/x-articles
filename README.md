@@ -145,3 +145,11 @@
 - 配图：`2026-07-02/ai-money-six-paths-2026/assets/`
 - 配图说明：`2026-07-02/ai-money-six-paths-2026/image-guide.md`
 - 脚本：`2026-07-02/ai-money-six-paths-2026/tools/`
+
+### 把自己养回来 6 个方法
+
+- 正文：`2026-07-02/self-energy-six-methods/article.md`
+- 资料边界：`2026-07-02/self-energy-six-methods/source-notes.md`
+- 配图：`2026-07-02/self-energy-six-methods/assets/`
+- 配图说明：`2026-07-02/self-energy-six-methods/image-guide.md`
+- 脚本：`2026-07-02/self-energy-six-methods/tools/`

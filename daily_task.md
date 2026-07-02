@@ -15,6 +15,7 @@
 
 ## 下一步任务
 
+- 发布或排期 `2026-07-02/self-energy-six-methods/article.md`，作为人格化/生活方式补充内容，观察“减少内耗/边界感”主题是否带来共鸣型评论；不改变账号 AI 编程与自动化主线。
 - 发布或排期 `2026-07-02/ai-money-six-paths-2026/article.md`，重点观察“AI 赚钱 6 条路 / 交付物而不是工具风口”是否带来收藏、转发和评论区选题需求。
 - 发布或排期 `2026-07-02/ai-code-review-human-architecture/article.md`，重点观察“AI 代码要不要人工审 / 人审架构不审每行”这个观点是否带来 AI Coding 方向的高质量评论。
 - 发布或排期 `2026-07-02/ai-song-programmer-monetization/article.md`，重点观察“AI 写歌 / 程序员变现 / 声音生产系统”主题是否带来收藏和评论区需求。
