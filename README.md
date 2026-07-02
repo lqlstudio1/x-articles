@@ -129,3 +129,11 @@
 - 配图：`2026-07-02/ai-song-programmer-monetization/assets/`
 - 配图说明：`2026-07-02/ai-song-programmer-monetization/image-guide.md`
 - 脚本：`2026-07-02/ai-song-programmer-monetization/tools/`
+
+### AI 代码人工审阅与架构 Review
+
+- 正文：`2026-07-02/ai-code-review-human-architecture/article.md`
+- 资料边界：`2026-07-02/ai-code-review-human-architecture/source-notes.md`
+- 配图：`2026-07-02/ai-code-review-human-architecture/assets/`
+- 配图说明：`2026-07-02/ai-code-review-human-architecture/image-guide.md`
+- 脚本：`2026-07-02/ai-code-review-human-architecture/tools/`

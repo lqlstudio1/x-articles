@@ -15,6 +15,7 @@
 
 ## 下一步任务
 
+- 发布或排期 `2026-07-02/ai-code-review-human-architecture/article.md`，重点观察“AI 代码要不要人工审 / 人审架构不审每行”这个观点是否带来 AI Coding 方向的高质量评论。
 - 发布或排期 `2026-07-02/ai-song-programmer-monetization/article.md`，重点观察“AI 写歌 / 程序员变现 / 声音生产系统”主题是否带来收藏和评论区需求。
 - 发布或排期 `2026-07-02/geo-ai-answer-position/article.md`，重点观察“GEO / AI 搜索 / AI 答案位置”主题是否带来收藏和高质量评论。
 - 优先发布或排期 `2026-07-01/x-monetization-account-health-upgrade/article.md`，比上一版更适合作为正式 Thread。

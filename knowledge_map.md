@@ -76,6 +76,8 @@ source-notes.md
   - GEO 专题文章：从 AI 体检、信息补齐、内容结构化、多源验证到 AI 友好页面，并加入 Codex 工作流和官方边界说明。
 - `2026-07-02/ai-song-programmer-monetization/`
   - 程序员靠 AI 写歌赚钱专题：从批量发歌转向定制音乐、素材包、工作流、自动化工具和 B 端声音资产库。
+- `2026-07-02/ai-code-review-human-architecture/`
+  - AI 代码人工审阅专题：把人工 review 从逐行检查转向测试策略、架构设计、模块边界、设计摘要和项目设计记忆。
 
 ## 核心工作链路
 

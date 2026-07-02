@@ -454,6 +454,41 @@
 
 ### 范围
 
+改写“到底要不要人工审阅 AI 生成的代码”观点文，产出适合 X 发布的 AI Coding 专题文章，并生成配套标题图、正文配图、资料边界和可复用脚本。
+
+### 已完成
+
+- 新增专题目录：`2026-07-02/ai-code-review-human-architecture/`。
+- 完成正式文章：`article.md`。
+- 完成 140 字以内短版，当前 104 字。
+- 完成 Thread 拆条版，当前 12 条。
+- 完成资料边界说明：`source-notes.md`。
+- 完成标题图和 3 张正文配图：
+  - `assets/01-title-5x2.png`
+  - `assets/02-review-layers.png`
+  - `assets/03-architecture-lens.png`
+  - `assets/04-design-memory.png`
+- 完成配图说明：`image-guide.md`。
+- 完成可复用配图生成脚本：`tools/render_ai_code_review_cards.py`。
+- 更新 `README.md`、`knowledge_map.md` 和 `daily_task.md`。
+
+### 验证结果
+
+- 已检查标题图尺寸为 2500x1000，符合 X 标题图 5:2 比例建议。
+- 已检查 3 张正文配图尺寸均为 1600x900。
+- 已检查短版字数为 104 字。
+- 已目检标题图和正文图，确认非空白、文字清晰，并包含代码窗口、架构图、开发者桌面和设计记忆文档等场景锚点。
+- 本文未联网搜索，已在 `source-notes.md` 说明为用户观点改写和工程实践判断。
+
+### 剩余风险
+
+- 本文属于工程方法论，不替代团队安全审计、合规审计或高风险系统专项评审。
+- 如果发布后评论区集中追问具体工具链，可后续补一篇“AI code review 工作流模板”或“Codex commit message 架构摘要模板”。
+
+## 2026-07-02
+
+### 范围
+
 初始化 `F:\code\x文章` 为 Git 仓库，并建立后续内容完成后必须提交到 Git 的长期规则。
 
 ### 已完成
