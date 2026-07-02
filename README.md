@@ -137,3 +137,11 @@
 - 配图：`2026-07-02/ai-code-review-human-architecture/assets/`
 - 配图说明：`2026-07-02/ai-code-review-human-architecture/image-guide.md`
 - 脚本：`2026-07-02/ai-code-review-human-architecture/tools/`
+
+### 2026 AI 赚钱 6 条路
+
+- 正文：`2026-07-02/ai-money-six-paths-2026/article.md`
+- 资料边界：`2026-07-02/ai-money-six-paths-2026/source-notes.md`
+- 配图：`2026-07-02/ai-money-six-paths-2026/assets/`
+- 配图说明：`2026-07-02/ai-money-six-paths-2026/image-guide.md`
+- 脚本：`2026-07-02/ai-money-six-paths-2026/tools/`
